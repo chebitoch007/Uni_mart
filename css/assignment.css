@@ -1,0 +1,35 @@
+
+     #main{
+            display: flex;
+        }
+        #one{
+            background-color: aqua;
+            color: white;
+            width: 40%;
+            height: 500px;
+            padding: 30px;
+        }
+        #two{
+            width: 40%;
+            height: 500px;
+            background-color: #f6eeee;
+            padding: 30px;
+        }
+        #two legend{
+            font-weight: bolder;
+            font-size: xxx-large;
+            text-align: center;
+        }
+        #one h1{
+            text-align: center;
+        }
+        #btn{
+            border-radius: 10px;
+            background-color: aqua;
+            height: 40px;
+            width: 70px;
+        }
+        input{
+            width: 76%;
+            height: 30px;
+        }
